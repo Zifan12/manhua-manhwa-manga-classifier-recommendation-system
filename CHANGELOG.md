@@ -15,5 +15,5 @@ All notable changes to this project will be documented here.
 - Dataset not cleaned for duplicates. 
 - Accuracy is low for manhwa vs manhua differentiation.
 - Model training time is quite high consider this is not a large model. 
-
+- Getting data from bing is not great for manga/manhua/manhwa as they may overlap and give inaccurate results.
 ---
